@@ -1,0 +1,110 @@
+[
+  {
+    "nama_matkul": "Algorithm and Object Oriented Programming Methods",
+    "deskripsi_matkul": "Mata kuliah algoritma dan metode object oriented programming memuat konsep-konsep dasar dalam membuat algoritma dan pemrograman yang berorientasi object dengan menggunakan bahasa C++. Fitur utamanya adalah element dasar dalam c++, input output stream, struktur data, control structures, fungsi, algoritma pengurutan data, algoritma pencarian, file stream. inheritance, polymorphism dan generic programming.",
+    "capaian_pembelajaran": "CP 1: menggunakan sintaks dan fungsi di dalam bahasa C++",
+    "pokok_bahasan": "1. Pengertian Algoritma dan Pemrograman; Perbedaan antara POP and OOP; Elemen - elemen dasar C++;Input and Output Stream 2. Struktur Kontrol dan Operator 3. Data Struktur dan Fungsi 4. Algoritma Pengurutan dan Pencarian Data 5. Operasi File 6. Object-Oriented Programming; Class and Model Objek 7. Constructors and Destructor; Nesting Object and Friend; Operator Overloading 8. Inheritance 9. Polymorphism 10. Generic Programming"
+  },
+  {
+    "nama_matkul": "Basis Data",
+    "deskripsi_matkul": "Mata kuliah ini menjelaskan tentang konsep dan definisi dari basis data, mulai dari komponen penyusun basis data, arsitektur dan perancangan basis data dengan menggunakan pendekatan model relasional ( entity relationship diagram). Selain itu dibahas tentang konsep mapping antara model konseptual kedalam model fisik basis data. Selanjutnya dikenalkan konsep normalisasi basis data sebagai bagian dari metode pengujian kualitas rancangan basis data. Setelah itu dipelajari konsep pengolahan basis data dengan pendekatan notasi aljabar relasional yang diperkuat dengan pengenalan konsep dan impelementasi penggunaan bahasa query (SQL) melalui DDL dan DML.",
+    "capaian_pembelajaran": "",
+    "pokok_bahasan": "Konsep Basis Data   Objek Basis Data Relasional   ERD   Mapping   Database Designer   Normalisasi   Aljabar Relasional   SQL   Perancangan Basis Data dalam RDBMS   Pembuatan Aplikasi dengan RDBMS"
+  },
+  {
+    "nama_matkul": "data center management menggunakan docker container",
+    "deskripsi_matkul": "process isolation diperlukan dalam rangka memberikan kontrol akses yang lebih terjamin. dibandingkan dengan penggunaan VM yang membutuhkan resource yang lebih, penggunaan linux container dapat menghemat resource, dan mempersingkat waktu pembuatan (provisioning). Mata kuliah ini akan membahas tentang pemanfaatan linux container dalam pengelolaan data center",
+    "capaian_pembelajaran": "1. Siswa mampu memahami cara kerja docker container",
+    "pokok_bahasan": "1. instalasi docker2. docker-compose3. pengelolaan memory"
+  },
+  {
+    "nama_matkul": "Interaksi Manusia Komputer",
+    "deskripsi_matkul": "Kuliah ini memberikan dasar-dasar yang dibutuhkan untuk mendesain interaksi manusia komputer, melakukan perancangan, pengembangan dan evaluasi rancangan desain interaksi yang berorientasi pada pengguna. Mata Kuliah Interaksi Manusia dan Komputer ini terdiri dari 11 Topik Bahasan, dimana pada setiap topik tersebut anda akan belajar mandiri mengenai desain interaksi manusia dan komputer. Pada Mata kuliah ini, Anda akan mengerjakan kuis pada beberapa sesi dan penugasan baik itu merupakan tugas individu maupun tugas kelompok.",
+    "capaian_pembelajaran": "Setelah mengikuti kuliah ini siswa dapat menjelaskan dan menerapkan prinsip-prinsip perancangan dan usability dalam pengembangan desain interaksi  suatu perangkat lunak.",
+    "pokok_bahasan": "Pokok bahasan perkuliahan terdiri dari: ·         Konsep dalam desain interaksi, ·         pemahaman dan konseptualisasi interaksi, ·         aspek kognitif, ·         perancangan untuk kolaborasi & komunikasi, ·         pengaruh antarmuka, ·         proses dalam interaksi desain, ·         pembuatan prototip, ·         perancangan interaksi yang berorientasi pada user, ·         pengenalan tentang evaluasi dan ragam teknik untuk usability testing, ·         studi kasus perancangan antarmuka dan interaksinya dalam pengembangan perangkat lunak."
+  },
+  {
+    "nama_matkul": "Jaringan Komputer",
+    "deskripsi_matkul": "Mata kuliah Jaringan Komputer merupakan mata kuliah dasar yang mempelajari konsep-konsep serta teknologi jaringan komputer. Materi kuliah meliputi: teknologi dan topologi jaringan komputer, OSI Model, TCP/IP Model, protokol routing,  local area network (LAN), wide area network(WAN), wireless network, protokol-protokol di layer aplikasi, dan beberapa topik terkini tentang jaringan komputer.  Mata kuliah jaringan komputer menitik beratkan pada pembahasan layer 3 (Network Layer) sampai dengan layer 7 (Application Layer) dari Model OSI. Hal ini perlu disampaikan terkait adanya overlap dengan mata kuliah Komunikasi Data yang lebih mendalami layer 3 (Network Layer) sampai dengan layer 1 (Physical Layer).",
+    "capaian_pembelajaran": "CP-01: Mampu menjelaskan dan menggambarkan konsep-konsep jaringan komputer. CP-02: Mampu menjelaskan pemanfaatan teknologi jarngan komputer pada kehidupan sehari-hari. CP-03: Mampu menjelaskan fungsi ketujuh layer model referensi OSI dari layer Fisik sampai layer Aplikasi. CP-04: Mampu menjelaskan protokol-protokol jaringan yang digunakan dalam ketujuh layer OSI serta algoritmanya. CP-05: Mampu merancang jaringan komputer lokal (Local Area Network, LAN) baik dari sisi alokasi nomor IP, subnetting,  maupun prinsip instalasi jaringannya. CP-06: Mampu menerapkan algoritma yang dipakai dalam routing statik maupun dinamik sederhana. CP-07: Mampu menjelaskan prinsip kerja protokol-protokol pada layer aplikasi seperti: DNS, HTTP, FTP, dsb. CP-08: Mampu menjelaskan teknologi yang dipergunakan pada jaringan wide area network CP-09: Mengenal konsep dan dasar-dasar teknologi sistem terdistribusi dan cloud computing. CP-10: Mahasiswa memiliki soft skill yang kuat dan lebih percaya diri.",
+    "pokok_bahasan": "Pengantar Jaringan Komputer. Model Referensi OSI dan TCP/IP .  Protokol dan Fungsionalitas Layer Aplikasi. Protokol Layer Transport.  Karakteristik Protokol Layer Network.  Pengalamatan IP. Subnetting. Karakeristik Layer Datalink. Protokol Routing.  Dynamic Routing Protocol  . Wide Area Network .   Wireless Local Area Network (WLAN).  Virtual Local Area Network (VLAN). Pengantar Cloud Computing"
+  },
+  {
+    "nama_matkul": "Machine Learning",
+    "deskripsi_matkul": "Memahami keterhubungan (relationships) dan ketergantungan (depedencies) dalam suatu koleksi data adalah suatu aspek yang sangat penting dalam menganalisis data tersebut. Ketika tidak ada pendekatan pemodelan yang mudah untuk melakukan hal tersebut, maka pendekatan cerdas berbasis data (data-driven method), dikenal juga dengan nama machine learning, menjadi solusi alternatif. Dengan kata lain, machine learning adalah metode analisis data yang dapat belajar dari data, sehingga menjadi cerdas. Cerdas dalam artian dapat melakukan generalisasi untuk data baru. Saat ini, machine learning telah menjadi perangkat analisis data yang sangat penting. Hal in dapat dilihat bahwa topik ini telah menjadi bidang kajian pada beberapa industri besar, seperti Google, nbsp;Microsoft, nbsp;Yahoo, dll.",
+    "capaian_pembelajaran": "",
+    "pokok_bahasan": ""
+  },
+  {
+    "nama_matkul": "Manajemen Keamanan Informasi dan Internet",
+    "deskripsi_matkul": "Sejalan dengan besarnya manfaat yang diberikan oleh internet kepada masyarakat dan dunia usaha, meningkat pula risiko yang mendampinginya. Paradoks ini merupakan akibat dari semakin tingginya nilai intrinsik dari dunia maya. Hal ini berarti bahwa setiap organisasi atau perusahaan yang memanfaatkan internet untuk meningkatkan kinerjanya pada saat yang sama harus perduli dengan isu keamanan yang menyertainya. Dengan mengikuti mata kuliah ini, peserta didik akan dibekali dengan pengetahuan isu keamanan informasi di internet dari berbagai dimensi dan spektrum yang ada. Disamping itu, peserta didik akan memiliki kemampuan dalam mendeteksi potensi kerawanan apa yang ada dalam sebuah sistem teknologi informasi berbasis internet dan bagaimana cara mencegah serta menanggulanginya.",
+    "capaian_pembelajaran": "",
+    "pokok_bahasan": "Fenomena Keamanan Informasi dan Internet   Hackers dan Kerawanan Sistem   Serangan dan Strategi Pengamanan   Penyusunan Kebijakan dan Prosedur Keamanan   Transaksi Elektronik dan Bukti Digital"
+  },
+  {
+    "nama_matkul": "Manajemen Organisasi Teknologi Informasi Korporasi",
+    "deskripsi_matkul": "Dalam konteks perusahaan, pada akhirnya sumber daya manusialah yang akan menjalankan sistem dan teknologi informasi untuk berbagai keperluan. Mata kuliah ini bertujuan untuk membekali peserta didik dengan pengetahuan dan kemampuan untuk merancang serta mengembangkan organisasi beserta kulturnya agar tercipta lingkungan yang kondusif dalam mengimplementasikan teknologi informasi dan komunikasi. Selain teori dan konsep organisasi, dalam mata kuliah ini dibahas pula berbagai aspek terkait dengan tata kelola (governance), manajemen, dan aktivitas pendukung organisasi lainnya - baik diperuntukkan bagi organisasi kecil maupun sebuah korporasi besar (konglomerat).",
+    "capaian_pembelajaran": "",
+    "pokok_bahasan": "PERSPEKTIF UTAMA SISTEM ORGANISASI   PENGELOLAAN TEKNOLOGI INFORMASI   MEMBUDAYAKAN LITERASI INFORMASI   SISTEM SENTRALISASI DAN DESENTRALISASI ORGANISASI   TREN STRUKTUR ORGANISASI ABAD-21   PERENCANAAN DAN PENGATURAN   PENGADAAN DAN PENERAPAN   INTEGRASI DAN SHARED-SERVICES ORGANISATION   PRINSIP IT GOVERNANCE   MANAJEMEN PERUBAHAN   STANDAR ISO-38500   STUDI KASUS LAPANGAN"
+  },
+  {
+    "nama_matkul": "Manajemen Proyek Perangkat Lunak",
+    "deskripsi_matkul": "Melalui mata kuliah ini Mahasiswa mampu memahami teknik manajemen proyek dan mengelola pengembangan proyek TI dengan menerapkan konsep pengembangan proyek perangkat lunak .",
+    "capaian_pembelajaran": "Mahasiswa mampu memahami teknik manajemen proyek dan mengelola pengembangan proyek TI dengan menerapkan konsep pengembangan proyek perangkat lunak .",
+    "pokok_bahasan": "pembuatan proposal penanganan SDM penanganan Sumber Daya Keuangan"
+  },
+  {
+    "nama_matkul": "Pengantar Manajemen Bisnis",
+    "deskripsi_matkul": "Mata kuliah ini mempelajari tentang dasar-dasar manajemen dan bisnis yang diperlukan dalam mengelola dinamika organisasi. Dinamika organisasi berarti adanya penghargaan dan tantangan bagi para individu yang mengelola organisasi tersebut. Mata kuliah ini menguraikan dasar-dasar manajemen dan organisasi, hambatan dan tantangan bagi bisnis global, pemahaman lingkungan bisnis, etika dan tanggung jawab dan sosial serta fungsi produksi, pemasaran dan keuangan. Mata kuliah ini memberikan pengetahuan dasar bagi mahasiswa yang berkaitan dengan dunia manajemen dan bagaimana pengelolaan bisnis pada abad 21.",
+    "capaian_pembelajaran": "CP 1 : Menguraikan fungsi dan peran manajemen, menjalankan dan mengelola manajemen dalam lingkungan global, membuat keputusan, lingkungan bisnis, kondisi ekonomi, tanggung jawab sosial dalam bisnis dan bentuk dasar dari kepemilikan bisnis. CP 2 : Menjelaskan tantangan bagi manajer global, proses pengambilan keputusan, tujuan dan perencanaan, strategi bersaing, mekanisme dan struktur organisasi, proses produksi, pemasaran dan keuangan. CP 3 : Menganalisis proses merumuskan tujuan dan perencanaan, proses manajemen strategik, perancangan organisasi yang modern, tempat kerja yang berubah, pengembangan kelompok, dan isu-isu terbaru mengenai motivasi, kepemimpinan, tipe-tipe pengendalian, bauran pemasaran, dan manajemen keuangan. CP 4 : Menerapkan proses inovasi, keanekaragaman tempat kerja, tim yang efektif dan komunikasi antar pribadi, teori motivasi dan kepemimpinan yang modern, alat untuk mengukur kinerja organisasi, dan perencanaan keuangan.",
+    "pokok_bahasan": "1) Dasar-Dasar Manajemen dan Organisasi dalam Manajemen Global 2) Dasar-Dasar Perencanaan dan Manajemen Strategik 3) Dasar-Dasar Pengoordinasian dan Mengelola Perubahan 4) Kepemimpinan dan Motivasi 5) Komunikasi dan Dasar-Dasar Pengendalian 6) Pemahaman Bagaimana Ekonomi Memengaruhi Bisnis dan Tanggung Jawab Perilaku secara Sosial 7) Bagaimana Membentuk suatu Bisnis dan Kewirausahaan Memulai suatu Usaha Kecil 8) Manajemen Produksi dan Operasi 9) Pemasaran: Membantu Pembeli Membeli 10) Manajemen Keuangan"
+  },
+  {
+    "nama_matkul": "Perancangan Perangkat Lunak",
+    "deskripsi_matkul": "Pada mata kuliah ini, mahasiswa memahami prinsip-prinsip perancangan perangkat lunak, mampu mengurai kompleksitas pada domain permasalahan, mampu memilih pendekatan yang sesuai dengan domain permasalahan,  mampu memilih arsitektur yang sesuai dengan perangkat lunak yang akan dibangun, mampu menggunakan pola-pola perancangan pada suatu permasalahan perancangan. Mahasiswa bisa membangun model perancangan perangkat lunak yang mampu mengantisipasi perubahan sesuai dengan studi kasus yang diberikan menggunakan pendekatan tertentu.",
+    "capaian_pembelajaran": "a.        Mahasiswa mampu menjelaskan prinsip-prinsip perancangan.",
+    "pokok_bahasan": "Prinsip-prinsip perancangan perangkat lunak: abstraksi; kopling dan kohesi; dekomposisi dan modularisasi; enkapsulasi; pemisahan antara antarmuka dan implementasi; sufficiency, completeness, dan primitiveness; serta separation of concerns. Isu-isu kunci perancangan perangkat lunak: konkurensi, penanganan event, persistensi data, penanganan error, toleransi terhadap kesalahan, keamanan, dll. Tipe-tipe perangkat lunak. Pendekatan perancangan perangkat lunak: top-down, bottom-up, function-oriented, data structure-centered, object-oriented, dan component-based. Konsep-konsep arsitektur perangkat lunak: client-server, three-tier, Model-View-Controller, dll. Pola-pola perancangan: beberapa pola sesuai dengan permasalahan seperti creational patterns, structural patterns, dan behavioral patterns. Penggunaan kembali kerangka kerja. Perancangan antarmuka."
+  },
+  {
+    "nama_matkul": "Perencanaan Strategis Sistem Informasi",
+    "deskripsi_matkul": "Langkah pertama yang harus dilakukan oleh organisasi semacam perusahaan untuk memastikan teknologi informasi memberikan manfaat adalah dengan melakukan perencanaan strategis sistem dan teknologi informasinya. Dokumen formal ini akan menjadi acuan seluruh pemangku kepentingan dalam membangun, merancang, menerapkan, mengawasi, maupun menilai Drsistem dan teknologi informasi. Mata kuliah ini mengajarkan langkah-langkah metodologis yang harus dilakukan dalam rangka pengembangan dokumen Rencana Strategis Sistem dan Teknologi Informasi atau \"IT Master Plan”.",
+    "capaian_pembelajaran": "•Menjelaskan akan penting dan kritikalnya keberadaan dokumen Rencana Strategis Sistem dan Teknologi Informasi.",
+    "pokok_bahasan": "1.Pemahaman mengenai Rencana Strategis Sistem Informasi  2.Evolusi Perkembangan Sistem dan Teknologi Informasi dalam Organisasi  3.Pendifinisian Kebutuhan dan Strategi Bisnis  4.Pengembangan Strategi Sistem dan Teknologi Informasi  5.Analisa Strategi: Pemahaman Situasi Termutakhir  6.Analisa Strategi: Penentuan Target Masa Depan  7.Tata Kelola Portofolio Manajemen Aplikasi  8.Manajemen Strategi Sistem dan Teknologi Informasi  9.Eksplorasi Variasi Pendekatan Sistem dan Teknologi Informasi   10.Pengelolaan Ketersediaan Teknologi Informasi  11.Manajemen Informasi dan Pengetahuan  12.Perencanaan Strategis ke Depan"
+  },
+  {
+    "nama_matkul": "Research Statistic",
+    "deskripsi_matkul": "Mata Kuliah Research Statistic membekali mahasiswa kemampuan untuk menganalisis data baik data hasil penelitian ataupun data lainnya, misalnya nilai siswa.",
+    "capaian_pembelajaran": "Setelah Mengikuti Perkuliahan Research Statistic, mahasiswa diharapkan:",
+    "pokok_bahasan": "Mata Kuliah ini memuat materi Statistik dan statistika Pendidikan, Data Statistik, Distribusi Frekuesni, Ukuran Pemusatan, Ukuran Letak dan Ukuran Penyebaran, Distribusi Sampling dan Teori Menaksir, Hipotesis, Uji Rata-rata, Uji t, Regresi Linier, dan ANAVA."
+  },
+  {
+    "nama_matkul": "Sistem Dan Teknologi Informasi Pendidikan",
+    "deskripsi_matkul": "Peranan teknologi informasi bagi perguruan tinggi sangatlah strategis dan kritikal. Keberadaannya tidaklah sekedar memberikan manfaat terkait dengan efisiensi, transparansi, efektivitas, maupun pengendalian, namun lebih jauh lagi berupa kemungkinan bagi kampus untuk bermetamorfosa atau bertransformasi menjadi sebuah institusi moderen dengan paradigma baru. Mata kuliah ini berisi konsep dan aplikasi terkait dengan perencanaan, perancangan, penerapan, pengembangan, dan penilaian teknologi informasi dalam konteks kebutuhan perguruan tinggi. Para peserta didik yang mengikuti mata kuliah ini diharapkan memiliki kemampuan dalam mendesain dan mengelola penerapan teknologi informasi untuk meningkatkan kinerja kampus dalam menjalankan tri darma-nya.",
+    "capaian_pembelajaran": "1. Menjelaskan secara detail peranan dan fungsi strategis TIK bagi perguruan tinggi",
+    "pokok_bahasan": "Terdapat 14 (empat belas) pokok bahasan yang harus dikuasai secara penuh oleh peserta didik, masing-masing adalah sebagai berikut:  1. PERANAN TIK DALAM DUNIA PENDIDIKAN  2. KONTEKS TIK DALAM PENDIDIKAN TINGGI  3. KERANGKA ARSITEKTUR TIK DALAM KAMPUS  4. PENGUKURAN KINERJA TIK PERGURUAN TINGGI  5. MANAJEMEN TATA KELOLA TIK DI PERGURUAN TINGGI  6. MENANAMKAN BUDAYA TIK DI KAMPUS  7. TIK DAN PARADIGMA PENDIDIKAN ABAD XXI  8. FENOMENA OPEN COURSEWARE  9. MENGADOPSI PERGESERAN PARADIGMA PENDIDIKAN  10. KEKAYAAN KONTEN DI DUNIA MAYA  11. KONSEP OPEN EDUCATION DAN TANTANGANNYA  12. MENGGALI MANFAAT OPEN EDUCATION  13. INSTRUMEN EVALUASI ADOPSI TEKNOLOGI INFORMASI  14. STRATEGI IMPLEMENTASI E-LEARNING"
+  },
+  {
+    "nama_matkul": "Sistem Keamanan Informasi dan Internet",
+    "deskripsi_matkul": "Mata Kuliah Manajemen Keamanan Informasi dan Internet  ini diperuntukkan bagi mereka yang ingin mendalami manajemen keamanan informasi dan internet. Internet telah menjadi bagian tak terpisahkan dari masyarakat moderen dewasa ini. Bahkan bagi generasi yang lahir setelah tahun 1995, internet telah membentuk sebuah dunia tersendiri seperti layaknya bumi di tempat manusia berada. Dalam dunia maya ini, melalui beraneka ragam peralatan teknologi informasi dan komunikasi, para individu maupun kelompok-kelompok masyarakat saling berinteraksi, bertukar pikiran, dan berkolaborasi untuk melakukan sejumlah aktivitas kehidupan.",
+    "capaian_pembelajaran": "Capaian Pembelajaran",
+    "pokok_bahasan": ""
+  },
+  {
+    "nama_matkul": "Sistem Operasi",
+    "deskripsi_matkul": "#NAME?",
+    "capaian_pembelajaran": "1.  Mahasiswa mampu memahamikonsep dasar sistem operasi 2.  Mahasiswa mampu memahami komponendan teknologi sistem operasi 3.  Mahasiswa mampu menjelaskan fungsi sistem operasi 4.  Mahasiswa mampu mengembangkan pengetahuan 5.  Mahasiswa dapat mengkonfigurasi dan mengelola berbagai macam sistem operasi",
+    "pokok_bahasan": "Sistem Komputer: Pengertian dan FungsiSistemOperasiKomputer, Konsep-konsepSistemOperasi, StrukturSistem Operasi, Layanan, Kegiatan, dan JenissistemOperasi, SejarahPerkembanganSistemOperasi,Manajemen Proses:Model Proses, Ststus Proses, ImplementasiSistem, KomunikasiAntar Proses, Proses DalamSistemTerdistribusi, Teknik Penjadwalan Proses: Preemptive Scheduling, Non-preemtive Scheduling, TeknikPenjadwalanSatu Tingkat, TeknikPenjadwalanMultitingkat, MetodeEvaluasiPenjadwalan, Manajemen Memori: Pengertiandan JenisMemori, AlamatMemori, Isi Memori, ManajemenMemoritanpa Swapping atau Paging, Multiprogramming denganPartisiStatis, Swapping, AnalisisSistem Swap, Virtual Memori, AlgoritmaPenempatan page, DesainSistem Paging, ImplementasiSegmentasi, Manajemen File: File, Directory,ImplementasiSistem File, Pengamanan File, User Authentication,  Installasi, konfigurasi dan mengelola Sistem Operasi: Windows, Linux, JavaVirtual Machine."
+  },
+  {
+    "nama_matkul": "Dasar Pemrograman Web 2.0",
+    "deskripsi_matkul": "Dasar pemrograman web 2.0",
+    "capaian_pembelajaran": "",
+    "pokok_bahasan": "CSS\tJavascript\tHTML 5"
+  },
+  {
+    "nama_matkul": "Teknologi Antar Jaringan",
+    "deskripsi_matkul": "TAJ mengajarkan OSPF",
+    "capaian_pembelajaran": "Mahasiswa mampu meraih nilai A",
+    "pokok_bahasan": "Jaringan"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "nama_matkul": "Keamanan Informasi: Melindungi Informasi Anda di Era Digital",
+    "deskripsi_matkul": "Kita kini sudah berada di era informasi dimana siapa yang menguasai informasi adalah pemenangnya. Dalam kehidupan sehari-hari pemanfaatan teknologi informasi sudah menjadi bagian dari kehidupan kita. Sebagai contoh, kita sudah tidak dapat dipisahkan lagi dari handphone. Namun, pemanfaatan teknologi informasi ini mengandung risiko. Penyalahgunaan teknologi informasi mengakibatkan fraud dan kejahatan-kejahatan lainnya. Kursus ‘Keamanan Informasi: Melindungi Informasi Anda di Era Digital’ akan memberi contoh berbagai ancaman pemanfaatan teknologi informasi. Prinsip-prinsip keamanan informasi akan dibahas dalam kursus ini. Kursus ini akan dibawakan oleh Ir. Budi Rahardjo, M.Sc., Ph.D., Dosen Sekolah Teknik Elektro dan Informatika Institut Teknologi Bandung (STEI ITB).",
+    "capaian_pembelajaran": "Melalui kursus ini, siswa diharapkan memahami pentingnya pengamanan informasi. Selain itu, siswa diharapkan menguasai prinsip-prinsip keamanan informasi dan mengetahui cara mengamankan informasi dengan menggunakan berbagai kendali.",
+    "pokok_bahasan": "MINGGU 1 Pemanfaatan Teknologi Informasi. MINGGU 2 Ancaman-ancaman terhadap Penggunaan Teknologi Informasi. MINGGU 3 Prinsip-prinsip Keamanan Informasi – Part 1. MINGGU 4 Prinsip-prinsip Keamanan Informasi – Part 2."
+  },
+  {
+    "nama_matkul": "Dasar Pemrograman Untuk Pemula (Part 1)",
+    "deskripsi_matkul": "Selamat datang di kelas Dasar Pemrograman Bagian Pertama. Pada kelas pemrograman ini akan dibahas perlahan dan lengkap beserta Video untuk Praktikum. Sehingga, anda bisa menjadi programmer yang mengerti tentang teori fundamental dari nol, bukan menjadi seorang programer Praktis karena terdapat tutorial dengan materi yang mendalam ditiap kelasnya dibandingkan perkuliahan lainnya. Tujuan dari kelas ini adalah mempelajari dasar pemrograman, hingga mampu membuat aplikasi sederhana. Bahasa pengantar dalam kelas Dasar pemrograman ini adalah menggunakan Visual C#. Mahasiswa bisa menggunakan Visual C# 2010, 2012 ataupun 2013. Untuk kalian yang otodidak belajar pemrograman tidak perlu khawatir. Dengan kelas pemrograman ini anda bisa belajar sama seperti orang yang kuliah di Bidang Komputer. Materi yang ada di dalam kelas ini adalah sebagai berikut: Pertemuan #1: Introduction Pertemuan #2: Dasar membuat Program Pertama Pertemuan #3: Tipe Data Pertemuan #3: Logika Pemrograman Pertemuan #4: Looping/Perulangan. Salam kenal untuk para mahasiswa/pelajar yang sudah terdaftar di kelas ini. Bersama saya Agung Riyadi, untuk kedepanya saya akan memberikan bimbingan di kelas dasar pemrograman ini. Mohon maaf atas segala kekurangan dalam kelas in, semoga memberikan banyak manfaat Akhir kata, Terima Kasih.",
+    "capaian_pembelajaran": "",
+    "pokok_bahasan": "Mempelajari Materi Dasar Pemrograman Untuk Pemula (Part 1). Mengerjakan Test Dasar Pemrograman Untuk Pemula (Part 1)."
+  },
+  {
+    "nama_matkul": "Aljabar linier",
+    "deskripsi_matkul": "Topik-topik yang dibahas meliputi Sistem persamaan linier dan matriks; Determinan; Ruang vektor; Ruang hasil kali dalam; Nilai eigen dan vektor eigen; Transformasi linier; Ruang vektor kompleks.",
+    "capaian_pembelajaran": "",
+    "pokok_bahasan": ""
+  },
+  {
+    "nama_matkul": "Sistem Operasi",
+    "deskripsi_matkul": "Dalam kuliah ini akan dibahas organisasi, struktur dan konsep-konsep dari sistem pengoperasian komputer. Topik-topik yang akan dibahas meliputi Pendahuluan: sejarah, konsep dasar, dan struktur; Proses: model, interprocess communication, schedulling; Memory Management: swapping, virtual memory, page replacement, paging, working set model, segmentation; File System: file and directory, implementation, security, protection; Input/Output; Deadlock; Distributed Systems.",
+    "capaian_pembelajaran": "",
+    "pokok_bahasan": ""
+  },
+  {
+    "nama_matkul": "Matematika Diskret",
+    "deskripsi_matkul": "",
+    "capaian_pembelajaran": "",
+    "pokok_bahasan": "Topik-topik yang akan dibahas meliputi: Relasi beserta sifat-sifat dan aplikasinya, Penutup relasi, Relasi ekivalen, Terurut parsial, Terurut total, Relasi rekurensi, fungsi Pembangkit, Graf, Isomorfisma graf, Keterhubungan graf, Komponen, Lintasan, Sirkuit, Lintasan dan Sirkuit Euler, Lintas dan Sirkuit Hamilton, Lintasan Terpendek, Graf Planar, Pewarnaan graf, Pohon, Hutan, Pohon perentang, Pohon perentang minimum, cut set."
+  },
+  {
+    "nama_matkul": "Perancangan Sistem Informasi",
+    "deskripsi_matkul": "This course focuses on the Analysis and Design for Information Systems (ADIS). It involves understanding of how to develop an Information Systems (IS) that can support organizations in order to achieve their goals by delivering benefits. The development of IS should be an integrated approaches within the organization. The course will deal with how to develop Information Systems so that it can improve the competitiveness of an organization. This course will explore the business function and how to manage the requirement to support the business function.",
+    "capaian_pembelajaran": "",
+    "pokok_bahasan": ""
+  }  
+]  

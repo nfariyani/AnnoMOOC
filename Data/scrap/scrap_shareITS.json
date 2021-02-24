@@ -1,0 +1,14 @@
+[
+  {
+    "nama_matkul": "Sistem Temu Kembali Informasi",
+    "deskripsi_matkul": "Sistem Temu Kembali Informasi (STKI) merupakan mata kuliah yang membahas tentang sistem yang dapat menemukan kembali koleksi informasi digital yang penyimpanannya tak terstruktur dan memberikan informasi yang relevan bagi kebutuhan user.",
+    "capaian_pembelajaran": "Mahasiswa mampu menjelaskan berbagai konsep, teori, istilah dalam berbagai macam model sistem temu kembali informasi beserta pengaplikasiannya. Mahasiswa mengimplementasikan teknik-teknik penyelesaian masalah seperti pengindeksan, pencarian, pemrosesan query dalam kebutuhan temu kembali informasi. Mahasiswa mampu mengembangkan sistem yang dapat menemukan dokumen yang relevan dengan kebutuhan pengguna dengan menerapkan prinsip-prinsip dan algoritma yang efektif dan efisien dalam pemilihan dokumen.",
+    "pokok_bahasan": "Mahasiswa akan mempelajari teknik-teknik pengolahan data teks untuk menemukan kembali informasi pada data berbentuk teks. Bahasan perkuliahan meliputi pengolahan awal, ekstraksi fitur, penghitungan tingkat kemiripan teks sesuai masukan query, dan menampilkan hasil pencarian. Bahasan lanjut adalah teknik relevance feedback, klasifikasi dan klasterisasi teks untuk membantu pengguna dalam pencarian. Mahasiswa akan merancang, menganalisis serta mengaplikasikan metode-metode sistem temu kembali informasi pada berbagai permasalahan nyata baik secara mandiri atau kerjasama tim."
+  },
+  {
+    "nama_matkul": "Perancangan Perangkat Lunak",
+    "deskripsi_matkul": "This topic discusses about general design concept,  context of software design, software design processes, and software design princiles. Design is defined as both “the process of defining the architecture, components, interfaces, and other characteristics of a system or component” and “the result of [that] process” [1]. Viewed as a process, software design is the software engineering life cycle activity in which software requirements are analyzed in order to produce a description of the software’s internal structure that will serve as the basis for its construction. A software design (the result) describes the software architecture, that is, how software is decomposed and organized into components, and the interfaces between those components. It should also describe the components at a level of detail that enables their construction.",
+    "capaian_pembelajaran": "",
+    "pokok_bahasan": ""
+  }
+]  

@@ -1,0 +1,961 @@
+[
+  {
+    "kalimat": "Basis Data"
+  },
+  {
+    "kalimat": "Mata kuliah ini merupakan  teori basis data yang sangat mendasar tanpa memerlukan prasyarat pengetahuan tentang basis data sebelumnya. Materi mata kuliah ini difokuskan pada tiga hal pokok, yaitu: dasar-dasar basis data, model data dan bagaimana membuat model data yang baik. Selain itu, mata kuliah ini juga membahas contoh-contoh aturan yang berlaku di lapangan yang terefleksikan dalam perancangan basis data. Sejumlah aspek lain yang relevan, seperti DBMS, SQL, aplikasi basis data dan perkembangan teknologi terbaru juga dibahas dalam mata kuliah ini."
+  },
+  {
+    "kalimat": "Sistem Pakar dan Sistem Pendukung Keputusan"
+  },
+  {
+    "kalimat": "Sistem ini merupakan sebuah sistem yang berbasis pengetahuan"
+  }
+  {
+    "kalimat": "Data Mining"
+  },
+  {
+    "kalimat": ""
+  },
+  {
+    "kalimat": "Desain Analisis Algoritma"
+  },
+  {
+    "kalimat": ""
+  },
+  {
+    "kalimat": "Logika Informatika"
+  },
+  {
+    "kalimat": ""
+  },
+  {
+    "kalimat": "Pemrograman Berorientasi Objek"
+  },
+  {
+    "kalimat": ""
+  },
+  {
+    "kalimat": "Sistem Operasi"
+  },
+  {
+    "kalimat": ""
+  },
+  {
+    "kalimat": "Model Pembelajaran"
+  },
+  {
+    "kalimat": "test"
+  },
+  {
+    "kalimat": "Metode Numerik"
+  },
+  {
+    "kalimat": "Belajar Metode Numerik"
+  },
+  {
+    "kalimat": "Testing Software"
+  },
+  {
+    "kalimat": ""
+  },
+  {
+    "kalimat": "Algoritma dan Struktur Data 4F"
+  },
+  {
+    "kalimat": "Mata kuliah yang mempelajari dasar-dasar algoritma dan struktur data dengan menggunakan bahasa pemrograman c"
+  },
+  {
+    "kalimat": "Database (Basis Data)"
+  },
+  {
+    "kalimat": "Mata kuliah ini merupakan  teori basis data yang sangat mendasar tanpa memerlukan prasyarat pengetahuan tentang basis data sebelumnya. Materi mata kuliah ini difokuskan pada tiga hal pokok, yaitu: dasar-dasar basis data, model data dan bagaimana membuat model data yang baik. Selain itu, mata kuliah ini juga membahas contoh-contoh aturan yang berlaku di lapangan yang terefleksikan dalam perancangan basis data. Sejumlah aspek lain yang relevan, seperti DBMS, SQL, aplikasi basis data dan perkembangan teknologi terbaru juga dibahas dalam mata kuliah ini."
+  },
+  {
+    "kalimat": "Algoritma dan Struktur Data Kelas B"
+  },
+  {
+    "kalimat": ""
+  },
+  {
+    "kalimat": "Basis Data (Database)"
+  },
+  {
+    "kalimat": "Basis Data adalah mata kuliah yang membahas tentang konsep, dasar-dasar dan teknik pengelolaan data dan informasi, sehingga diperoleh kumpulan-kumpulan data (basis data) yang isinya dapat dipercaya keakuratannya. Mata kuliah ini berisi bahasan-bahasan tentang konsep dasar, arsitektur sistem basis data,  model-model basis data, Entity Relationship Diagram (ERD), normalisasi basis data, dan Structured Query Language (SQL)."
+  },
+  {
+    "kalimat": "Komunikasi Data dan Jaringan Komputer kelas A, C, E"
+  },
+  {
+    "kalimat": ""
+  },
+  {
+    "kalimat": "Perkembangan Peserta Didik 2A/2B/2C"
+  },
+  {
+    "kalimat": ""
+  },
+  {
+    "kalimat": "Artificial Intelligance"
+  },
+  {
+    "kalimat": "Manusia mempunyai kapasitas mental dan pikiran yang sangat penting dalam kehidupannya. Bidang intelijensia buatan berusaha untuk memahami entitas-entitas cerdas. Satu alasan kenapa mempelajarinya adalah untuk lebih memahami diri kita sendiri. Tetapi tidak seperti filosofi dan psikologi, yang juga berhubungan dengan kecerdasan, AI berusaha membangun entitas-entitas cerdas sesuai dengan pemahaman manusia. Alasan lain mengapa mempelajari AI adalah bahwa entitas-entitas cerdas yang dibangun ini menarik dan berguna dalam kebenarannya sendiri. AI telah menghasilkan banyak produk yang berarti dan mengesankan bahkan pada tahap awal perkembangannya. Walaupun tidak seorangpun dapat memprediksi masa depannya secara detail, tetapi jelas bahwa komputer-komputer dengan kecerdasan setingkat manusia akan mempunyai pengaruh yang sangat besar pada kehidupuan kita dan pada sebagian dari peradaban masa depan. Perkembangan perangkat keras (hardware) saat ini sudah berada pada tingkat yang sangat tinggi. Perkembangan teknologi komputer yang kini masih ditunggu adalah dibuatnya komputer tanpa kawat (wireless computer). Dalam wireless computer data ditransfer sepenuhnya melalui berkas cahaya (light beams) yang dapat saling berpotongan tanpa terjadinya interferensi. Saat ini orang sudah mampu membuat processor yang sepenuhnya optikal. Suatu komputer optikal dalam bentuk awal (rudimentary), yang mampu mengerjakan matematika sederhana telah berhasil dibuat oleh para peneliti dari University of Colorado. Suatu komputer optikal yang beroperasi dengan kecepatan cahaya dan kemampuan komunikasi melalui ribuan jalur dalam serat optik akan meningkatkan kemampuan komputer yang luar biasa. Komputer yang demikian merupakan impian dan dambaan para peneliti. Namun dana yang sangat besar untuk pengembangan alat tersebut, saat ini, masih merupakan ganjalan utama dalam realisasinya. Suatu usaha yang realistis saat ini adalah mengembangkan komputer hibrida dengan mengkombinasikan teknologi elektronik dengan teknologi fotonik, yaitu dengan mengembangkan hubungan optik antara berbagai electronic processor, memory units, dan communication ports. Hal ini akan memberikan transfer data yang cepat dan sekaligus menghindarkan terjadinya wiring bottle necks yang banyak terjadi pada komputer elektronik saat ini. Banyak lagi yang diharapkan datang dari teknologi optoelektronik, namun yang sudah jelas dalam teknologi tersebut adalah perubahan radikal dalam cara memproses informasi. Unit informasi dalam komputer optik tidak lagi bit-bit seperti pada komputer elektronik, tetapi suatu image yang berisi miliaran bit. Prosesor optik dapat menumpuk dua buah image dan dapat segera, dengan sangat cepat, mengenali perbedaannya. Hal ini penting dalam pengenalan pola dan bila dikombinasikan dengan lensa dapat berfungsi sebagai mata. Melihat perkembangan perangkat keras komputer yang sangat pesat, maka muncullah pertanyaan: “Masih perlukan kita mempelajari intelijensia buatan?”. Saat ini, kita merasa masih perlu karena komputer teknologi fotonik yang diharapkan masih jauh dari rencana fabrikasi dan tentu saja harganya sangat tinggi. Sedangkan, saat ini, yang kita butuhkan adalah sistem berintelijensia dengan resource dan harga yang murah. Selanjutnya, marilah kita mencoba memberikan definisi intelijensia buatan. "
+  },
+  {
+    "kalimat": "Statistik"
+  },
+  {
+    "kalimat": "Belajar statistik dasar dan implementasinya"
+  },
+  {
+    "kalimat": "Metode Penelitian Pendidikan"
+  },
+  {
+    "kalimat": "Mata Kuliah : Metode Penelitian Pendidikan"
+  },
+  {
+    "kalimat": "Jaringan Komputer"
+  },
+  {
+    "kalimat": "Mata Kuliah : Komunikasi Data dan Jaringan Komputer"
+  },
+  {
+    "kalimat": "Arsitektur Komputer"
+  },
+  {
+    "kalimat": ""
+  },
+  {
+    "kalimat": "Pengolahan Citra Digital (C)"
+  },
+  {
+    "kalimat": ""
+  },
+  {
+    "kalimat": "Mobile Application"
+  },
+  {
+    "kalimat": ""
+  },
+  {
+    "kalimat": "Algoritma dan Struktur Data"
+  },
+  {
+    "kalimat": ""
+  },
+  {
+    "kalimat": "Advance Computer Animation (ACA)"
+  },
+  {
+    "kalimat": ""
+  },
+  {
+    "kalimat": "Game Development (GD)"
+  },
+  {
+    "kalimat": ""
+  },
+  {
+    "kalimat": "Video Editing & Advertisement"
+  },
+  {
+    "kalimat": ""
+  },
+  {
+    "kalimat": "Dasar Sistem Komputer"
+  },
+  {
+    "kalimat": "Dasar Sistem Komputer"
+  },
+  {
+    "kalimat": "Perencanaan Pembelajaran"
+  },
+  {
+    "kalimat": ""
+  },
+  {
+    "kalimat": "Manajemen Industri"
+  },
+  {
+    "kalimat": ""
+  },
+  {
+    "kalimat": "Asesmen dan Evaluasi (Assessment and Evaluation)"
+  },
+  {
+    "kalimat": "Asesmen dan Evaluasi (Assessment and Evaluation)"
+  },
+  {
+    "kalimat": "Metode Numerik"
+  },
+  {
+    "kalimat": "Belajar Metode Numerik"
+  },
+  {
+    "kalimat": "Belajar dan Pembelajaran"
+  },
+  {
+    "kalimat": "Belajar dan Pembelajaran"
+  },
+  {
+    "kalimat": "Enterprise Resource Planning"
+  },
+  {
+    "kalimat": ""
+  },
+  {
+    "kalimat": "Basis Data Lanjut"
+  },
+  {
+    "kalimat": ""
+  },
+  {
+    "kalimat": "ORGANISASI KOMPUTER"
+  },
+  {
+    "kalimat": ""
+  },
+  {
+    "kalimat": "Desain dan Analisis Algoritma"
+  },
+  {
+    "kalimat": "DAA"
+  },
+  {
+    "kalimat": "kurikulum dan pembelajaran"
+  },
+  {
+    "kalimat": "Saya dosen yang mengajar kurikulum dan pembelajaran"
+  },
+  {
+    "kalimat": "Statistika"
+  },
+  {
+    "kalimat": "Statistika"
+  },
+  {
+    "kalimat": "Aljabar Linear"
+  },
+  {
+    "kalimat": "Mata kuliah ini diajarkan agar mahasiswa mampu memahami sistem persamaan linier, matriks, determinan matriks, vektor-vektor di dalam ruang 2 dimensi dan ruang 3 dimensi, ruang-ruang vektor, transformasi linier, nilai eigen, dan vektor eigen."
+  },
+  {
+    "kalimat": "Strategi Pembelajaran (Teaching and Learning Strategy)"
+  },
+  {
+    "kalimat": "Standar Kompetensi   matakuliah ini yaitu:"
+  },
+  {
+    "kalimat": "Micro Teaching"
+  },
+  {
+    "kalimat": "Mata kuliah Micro Teaching merupakan salah satu mata kuliah wajib bagi mahasiswa Jurusan Pendidikan Teknik Informatika sebagai syarat PPL. Micro Teaching  adalah mata kuliah  yang harus dilatihkan dalam kelas secara sederhana, beberapa kali agar  mahasiswa terampil mengajar dalam kelompok kecil, diharapkan bila telah dianggap layak (standar), pada pembelajaran pada kelas besar dapat teratasi. Ketrampilan dan sikap sesuai dengan kompetensi guru yang telah di tentukan dalam Permindiknas No 16 tahun 2007. Dalam pengajaran kompetensi dapat di aplikasikan dalam real teaching. Sehingga mahasiswa dapat memiliki  empat kompetensi yang disyaratkan bagi guru bisa dicapai yaitu keompetnsi Paedagie kompetensi professional, kompetensi kepribadian dan kompetensi sosial."
+  },
+  {
+    "kalimat": "Metodologi Penelitian Pendidikan"
+  },
+  {
+    "kalimat": "Standar Kompetensi (SK) : Mahasiswa mampu mendesain penelitian yang baik sesuai dengan kaidah metodologi penelitian yang diminatinya."
+  },
+  {
+    "kalimat": "Statistika"
+  },
+  {
+    "kalimat": "Standar Kompetensi (KD) : Mahasiswa mampu menganalisis permasalahan secara statistika inferensial sebagai dasar dalam mengambil keputusan"
+  },
+  {
+    "kalimat": "Komunikasi Data dan Jaringan Komputer"
+  },
+  {
+    "kalimat": ""
+  },
+  {
+    "kalimat": "Perkembangan Peserta Didik"
+  },
+  {
+    "kalimat": "Proses pembelajaran yang dilakukan guru bertujuan agar peserta didiknya menguasai materi yang diajarkan baik dalam aspek kognitif, afektif maupun psikomotorik. Untuk mencapai tujuan tersebut secara maksimal, guru wajib memahami siapa peserta didik baik dari aspek biologis, psikologis, sosial emosional dan kedudukan peserta didik  selama proses pembelajaran itu berlangsung. Maka mata kuliah Perkembangan Peserta Didik memberikan kompetensi pentingnya guru memahami hakikat peserta didik secara mendasar dan luas."
+  },
+  {
+    "kalimat": "Pemrograman Web"
+  },
+  {
+    "kalimat": ""
+  },
+  {
+    "kalimat": "Algoritma dan Struktur Data kelas D"
+  },
+    {
+    "kalimat": ""
+  },
+  {
+   "kalimat": "Video Editing and Advertising"
+  },
+  {
+    "kalimat": "Video Editing and Advertising"
+
+  },
+  {
+   "kalimat": "Basis Data (Database)"
+  },
+  {
+    "kalimat": "Basis data"
+
+  },
+  {
+   "kalimat": "Sistem Pakar & Sistem Pendukung Keputusan"
+  },
+  {
+    "kalimat": "Perkuliahan ini merupakan perkuliahan lanjutan dari Matakuliah Kecerdasan Buatan. Dimana metode yang dijelaskan pada mata kuliah AI juga diterapkan pada matakuliah SP & SPK."
+
+  },
+  {
+   "kalimat": "Game Development"
+  },
+  {
+    "kalimat": "Lecture Notes for Game Development class (A & B)"
+
+  },
+  {
+   "kalimat": "Advance Computer Animation"
+  },
+  {
+    "kalimat": "Lecture notes for Advance Computer Animation class (D)"
+
+  },
+  {
+   "kalimat": "Rekayasa Perangkat Lunak (RPL)"
+  },
+  {
+    "kalimat": "Lecture notes for Software Engineering (RPL) class (C & D)"
+
+  },
+  {
+   "kalimat": "Pengolahan Citra Digital"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Rekayasa Perangkat Lunak - TIK1240"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Advance Computer Animation (3D)"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Algoritma dan Pemrograman 1B"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Kelas Tutorial Bahasa C"
+  },
+  {
+    "kalimat": "Kelas Tutorial Bahasa C"
+
+  },
+  {
+   "kalimat": "Algoritma dan Pemrograman RK"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Desain dan Analisis Algoritma"
+  },
+  {
+    "kalimat": "DAA161701"
+
+  },
+  {
+   "kalimat": "PEMDAS 2012"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Riset Operasional"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Teknologi Multimedia"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Organisasi dan Arsitektur Komputer"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Basis Data Lanjut (Advance Data Base)"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Dasar Sistem Komputer"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Aplikasi Perkantoran"
+  },
+  {
+    "kalimat": "Mata Kuliah Aplikasi Perkantoran merupakan mata kuliah yang diberikan di semester I"
+
+  },
+  {
+   "kalimat": "Enterprise Resource Planning (ERP) - TIK1246"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Sistem Informasi"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Assesment dan Evaluasi"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Sistem Operasi - TIK1232"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Object Oriented Programming (OOP) Kelas B & D"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Geographical Information Systems (GIS)"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Enterprise Resource Planning (ERP) Kelas A"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Belajar dan Pembelajaran"
+  },
+  {
+    "kalimat": "-"
+
+  },
+  {
+   "kalimat": "Pemrograman Web (Genap 2016/2017)"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Rekayasa Perangkat Lunak A"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "KKNI - Basis Data"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Advance 3D Animation (Genap 2016/2017)"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Game Development (Genap 2016/2017)"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Aplikasi Mobile"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Pemrograman dan Struktur Data"
+  },
+  {
+    "kalimat": "Pemrograman dan Struktur Data"
+
+  },
+  {
+   "kalimat": "Rekayasa Perangkat Lunak"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Strategi Pembelajaran"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Assesmen dan Evaluasi"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Matematika Dasar"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "PTI1312-Sistem Informasi"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Asesmen dan Evaluasi Pembelajaran"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Organisasi & Arsitektur Komputer"
+  },
+  {
+    "kalimat": "Mata kuliah ini akan menjelaskan materi dari Organisasi dan Arsitektur komputer"
+
+  },
+  {
+   "kalimat": "Organisasi dan Arsitektur Komputer"
+  },
+  {
+    "kalimat": "Materi Organisasi dan Arsitektur Komputer"
+
+  },
+  {
+   "kalimat": "Data Mining AD"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Pemrograman Berbasis Object (Ganjil 2017-2018)"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "TIK1242 Sistem Informasi Geografi 5D"
+  },
+  {
+    "kalimat": "Materi Sistem Informasi Geografi untuk kelas D"
+
+  },
+  {
+   "kalimat": "TIK1232 -  Sistem Operasi - AP"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "PTI1313 - Desain dan Analisis Algoritma 3 C & D"
+  },
+  {
+    "kalimat": "Materi kelas Desain dan Analisis Algoritma kelas C dan D"
+
+  },
+  {
+   "kalimat": "TIK1109 - Algoritma dan Pemrograman"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "PTI1103 - DASAR SISTEM KOMPUTER - SS"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "TIK1244 Data Mining (Kelas A dan B)"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "PTI1104 - ORGANISASI DAN ARSITEKTUR KOMPUTER - SS"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Pengolahan Multimedia 2017"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Geographical Information Systems 5A_5B_5C (Ganjil 2017-2018)"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Enterprise Resource Planning 7A_7B (Ganjil 2017-2018)"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Pemrograman Berorientasi Obyek (Kurikulum KKNI)"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Dasar Sistem Komputer SI"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Kurikulum dan Pengajaran"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Basis Data Lanjut"
+  },
+  {
+    "kalimat": "Mata kuliah untuk program PERMATA 2018"
+
+  },
+  {
+   "kalimat": "Interaksi Manusia Komputer"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Mikrokontroler dan Dasar Robotika"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Interaksi Manusia dan Komputer"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "TIK1227 Algoritma dan Struktur Data A"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Interaksi Manusia-Komputer - Yota"
+  },
+  {
+    "kalimat": "Mata Kuliah Interaksi Manusia-Komputer  Kelas D, tahun ajaran 2017/2018 semester genap"
+
+  },
+  {
+   "kalimat": "TIK1647-Interaksi Manusia Komputer - Rey"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Mata Kuliah Video Editing dan Advertising"
+  },
+  {
+    "kalimat": "Mata kuliah video editing merupakan mata kuliah wajib memperlajari tentang materi proses editing pembuatan video, mulai dari pra produksi, produksi dan pasca produksi"
+
+  },
+  {
+   "kalimat": "Teknologi Multimedia 1"
+  },
+  {
+    "kalimat": "Teknologi Multimedia merupakan Matakulah untuk meneraptkan berbagai macam multimedia dalam mendukung proses pembelajaran dan mendukung implementasi di lapangan"
+
+  },
+  {
+   "kalimat": "TIK1647-Interaksi Manusia Komputer-AP"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "TIK1620-Sistem Operasi-AP"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "TIK1622-Basis Data-AP"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Basis Data Lanjut (Kelas A dan B)"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Basis Data (Kelas C dan D)"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Basis Data Lanjut (Genap 2017/2018) - IMP"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Pemrograman dan Struktur Data (Kelas A)"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Pemrograman Berorientasi Objek (Kelas D)"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Data Mining (Ganjil 2018/2019)"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Kecerdasar Buatan/ Artificial Intelligance (AW)"
+  },
+  {
+    "kalimat": "Manusia mempunyai kapasitas mental dan pikiran yang sangat penting dalam kehidupannya. Bidang intelijensia buatan berusaha untuk memahami entitas-entitas cerdas. Satu alasan kenapa mempelajarinya adalah untuk lebih memahami diri kita sendiri. Tetapi tidak seperti filosofi dan psikologi, yang juga berhubungan dengan kecerdasan, AI berusaha membangun entitas-entitas cerdas sesuai dengan pemahaman manusia. Alasan lain mengapa mempelajari AI adalah bahwa entitas-entitas cerdas yang dibangun ini menarik dan berguna dalam kebenarannya sendiri. AI telah menghasilkan banyak produk yang berarti dan mengesankan bahkan pada tahap awal perkembangannya. Walaupun tidak seorangpun dapat memprediksi masa depannya secara detail, tetapi jelas bahwa komputer-komputer dengan kecerdasan setingkat manusia akan mempunyai pengaruh yang sangat besar pada kehidupuan kita dan pada sebagian dari peradaban masa depan. Perkembangan perangkat keras (hardware) saat ini sudah berada pada tingkat yang sangat tinggi. Perkembangan teknologi komputer yang kini masih ditunggu adalah dibuatnya komputer tanpa kawat (wireless computer). Dalam wireless computer data ditransfer sepenuhnya melalui berkas cahaya (light beams) yang dapat saling berpotongan tanpa terjadinya interferensi. Saat ini orang sudah mampu membuat processor yang sepenuhnya optikal. Suatu komputer optikal dalam bentuk awal (rudimentary), yang mampu mengerjakan matematika sederhana telah berhasil dibuat oleh para peneliti dari University of Colorado. Suatu komputer optikal yang beroperasi dengan kecepatan cahaya dan kemampuan komunikasi melalui ribuan jalur dalam serat optik akan meningkatkan kemampuan komputer yang luar biasa. Komputer yang demikian merupakan impian dan dambaan para peneliti. Namun dana yang sangat besar untuk pengembangan alat tersebut, saat ini, masih merupakan ganjalan utama dalam realisasinya. Suatu usaha yang realistis saat ini adalah mengembangkan komputer hibrida dengan mengkombinasikan teknologi elektronik dengan teknologi fotonik, yaitu dengan mengembangkan hubungan optik antara berbagai electronic processor, memory units, dan communication ports. Hal ini akan memberikan transfer data yang cepat dan sekaligus menghindarkan terjadinya wiring bottle necks yang banyak terjadi pada komputer elektronik saat ini. Banyak lagi yang diharapkan datang dari teknologi optoelektronik, namun yang sudah jelas dalam teknologi tersebut adalah perubahan radikal dalam cara memproses informasi. Unit informasi dalam komputer optik tidak lagi bit-bit seperti pada komputer elektronik, tetapi suatu image yang berisi miliaran bit. Prosesor optik dapat menumpuk dua buah image dan dapat segera, dengan sangat cepat, mengenali perbedaannya. Hal ini penting dalam pengenalan pola dan bila dikombinasikan dengan lensa dapat berfungsi sebagai mata. Melihat perkembangan perangkat keras komputer yang sangat pesat, maka muncullah pertanyaan: “Masih perlukan kita mempelajari intelijensia buatan?”. Saat ini, kita merasa masih perlu karena komputer teknologi fotonik yang diharapkan masih jauh dari rencana fabrikasi dan tentu saja harganya sangat tinggi. Sedangkan, saat ini, yang kita butuhkan adalah sistem berintelijensia dengan resource dan harga yang murah. Selanjutnya, marilah kita mencoba memberikan definisi intelijensia buatan. "
+
+  },
+  {
+   "kalimat": "Kecerdasan Buatan"
+  },
+  {
+    "kalimat": "Matakuliah ini akan menjelaskan tentang kecerdasan buatan"
+
+  },
+  {
+   "kalimat": "Organisasi dan Arsitektur Komputer (1B)"
+  },
+  {
+    "kalimat": "Mata kuliah ini menjelaskan tentang materi organisasi dan arsitektur komputer digital"
+
+  },
+  {
+   "kalimat": "Teknologi Multimedia Lanjut (PS)"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "TIK1210 - Logika Informatika - SS"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Data Mining (Kelas A dan B)"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Pemorgraman Berorientasi Objek PTI A"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Kewirausahaan PTI A"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Kewirausahaan PTI B"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Geographical Information Systems (Ganjil 2018-2019)"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Enterprise Resource Planning (ERP) (Ganjil 2018-2019)"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "TIK-1224 Manajemen Industri"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Rekayasa Perangkat Lunak - TIK 1626 - AP - Kelas B, C, D"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Pemrograman Web (Ganjil 2018/2019)"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Pemrograman Berorientasi Obyek (Kelas A, B, C)"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "TIK1642 - Jaringan Komputer Lanjut - SS"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "TIK1626 - Rekayasa Perangkat Lunak - SS"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Prakerin 2017 - Resika"
+  },
+  {
+    "kalimat": ""
+
+  },
+  {
+   "kalimat": "Bimbingan Skripsi Resika"
+  },
+  {
+    "kalimat": "Diskusi bimbingan skripsi"
+
+  },
+  {
+   "kalimat": "Kuliah Umum UX"
+  },
+  {
+    "kalimat": ""
+  }
+]
